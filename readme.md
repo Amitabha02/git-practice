@@ -1,1 +1,1 @@
-Git basic command learned and implement to push on GitHub. 
+Learned basic Git commands and implemented them to push code to GitHub.
